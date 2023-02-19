@@ -1,10 +1,7 @@
-double a(double s){
- return s;
+String adham(){
+  return 'Adham '*10;
 }
 
 void main(){
-  print(a(123456789));
+  print(adham());
 }
-
-
-
