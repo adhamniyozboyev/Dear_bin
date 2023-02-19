@@ -1,10 +1,9 @@
-double a(){
-  return 1234567890.0987654321*99;
-
+double a(double s){
+ return s;
 }
 
 void main(){
-  print(a());
+  print(a(123456789));
 }
 
 
